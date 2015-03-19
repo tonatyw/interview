@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 概述：
 
 按照下面的题目要求完成编码，然后，将做好的项目提交到github（如何提交？下面有说明），把你的github地址提交给（邮箱：601683066#qq.com）进行代码评审，评审会以代码注释和文件的形式直接放在你的代码中。
@@ -35,3 +36,7 @@
 ```
   grails test-app integration: interview.BlogFacadeSpec
 ```
+=======
+# myRepository
+test
+>>>>>>> 7237b4014f2db5834179ecbd4557deafa4e07940
